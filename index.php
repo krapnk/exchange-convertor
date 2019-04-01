@@ -11,7 +11,7 @@
 	
 <body>
     
-    <table style="width:100%">
+    <table>
     <tr>
         <th id="app">
             <p @click=runPHP v-html=message></p>
