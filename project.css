@@ -1,0 +1,19 @@
+#app, #app2, #app3 {
+	display: table-cell;
+	width: 33%; height: 33%;
+    flex-direction: column; justify-content: center; align-items: center;
+    border:2px solid Indigo;
+    border-radius: 35px;
+}
+
+
+
+body {
+  background-color: Khaki;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color:Indigo;
+}
