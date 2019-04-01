@@ -6,8 +6,6 @@
     border-radius: 35px;
 }
 
-
-
 body {
   background-color: Khaki;
 }
@@ -16,4 +14,8 @@ p {
   font-family: verdana;
   font-size: 20px;
   color:Indigo;
+}
+
+table {
+   width:100%
 }
